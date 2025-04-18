@@ -3,7 +3,7 @@ layout: default
 title: Evelyn's Portfolio
 ---
 
-# 👋 Hi, I'm Evelyn
+# Hi, I'm Evelyn
 
 Welcome to my e-portfolio!
 
