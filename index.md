@@ -1,5 +1,14 @@
 ---
 layout: default
-title: Evelyn Castro
-description: CS 499 Portfolio
+title: Evelyn's Portfolio
 ---
+
+# 👋 Hi, I'm Evelyn
+
+Welcome to my e-portfolio!
+
+- 🖼️ Here’s my artwork
+- 💻 Projects I’ve built
+- 🧠 What I’m learning
+
+Stay tuned!
