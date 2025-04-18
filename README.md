@@ -1,17 +1,5 @@
 # my-eportfolio
 
-## Projects
-
-### Project 1
+## Project
 - Description
 - Link
-
-
-### Project 2
-- Description
-- Link
-
-### Project 3
-- Description
-- Link
-
