@@ -9,10 +9,10 @@ Welcome to my software development ePortfolio — a collection of my academic an
 
 | Milestone | Focus |
 |----------|--------|
-|  Milestone Two | Code Review (Video)|
-| ✅ Milestone Three | Software Design & Engineering|
-| ✅ Milestone Four | Algorithms & Data Structures|
-| ✅ Milestone Five | Databases|
+| Milestone Two | Code Review (Video)|
+| Milestone Three | Software Design & Engineering|
+| Milestone Four | Algorithms & Data Structures|
+| Milestone Five | Databases|
 
 
 ## Repo Structure
