@@ -4,8 +4,12 @@
 
 Welcome to my e-portfolio!
 
-Project I’ve built
-
+## Professional Self-Assessment
+Over the course of the Computer Science program, I have gained technical expertise and real-world problem-solving skills that have prepared me to enter the software development industry confidently. This ePortfolio represents the culmination of that journey, showcasing enhanced projects that reflect my growth as a developer, designer, and critical thinker.
+Through coursework in software engineering, data structures and algorithms, databases, and security, I have developed a solid foundation. Each project challenged me to refine my coding practices, strengthen my understanding of complex systems, and explore new technologies.
+I have enhanced several key projects throughout this program to demonstrate my mastery of core computer science competencies. These include improvements in software design, implementation of more efficient algorithms and data structures, and effective use of relational databases to manage and secure data. Each enhancement was driven by thoughtful planning, peer and instructor feedback, and a focus on scalability and maintainability.
+Developing this ePortfolio has allowed me to reflect on my learning and present my technical abilities cohesively and professionally. It serves as an academic requirement and a platform to share my work with potential employers. By reviewing and refining each artifact, I have demonstrated my ability to learn, adapt, and continuously improve—essential skills in any technology career.
+As I begin the next phase of my professional journey, the knowledge and experience I have gained throughout this program will support my continued growth. I am excited to contribute to meaningful software projects, collaborate with diverse teams, and tackle new challenges that drive innovation. 
 
 # Milestones
 
