@@ -7,8 +7,8 @@ Welcome to my software development ePortfolio — a collection of my academic an
 
 ## Project Milestones
 
-| Milestone | Focus | Module |
-|----------|--------|--------|
+| Milestone | Focus |
+|----------|--------|
 |  Milestone Two | Code Review (Video)|
 | ✅ Milestone Three | Software Design & Engineering|
 | ✅ Milestone Four | Algorithms & Data Structures|
