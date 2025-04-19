@@ -1,7 +1,4 @@
----
-layout: default
-title: Evelyn's Portfolio
----
+
 
 # Hi, I'm Evelyn
 
